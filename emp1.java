@@ -1,4 +1,4 @@
-package oopsmock;
+package oopsmock;//new
 
 class esal {
     private double sal = 80000.0;
