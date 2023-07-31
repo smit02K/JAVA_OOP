@@ -1,4 +1,4 @@
-package oopsmock;//nothing 
+package oopsmock;//nothing  ngvhghgc
 
 public class Q6 {
 	public static void main(String[] args) {
